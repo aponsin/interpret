@@ -30,7 +30,7 @@ available in your application.
 
 [SEE DEMO](http://interpretapp.heroku.com)
 
-Fork Details
+Fork details
 ============
 
 Attempting to make it work with Mongoid instead of ActiveRecord

@@ -30,9 +30,14 @@ available in your application.
 
 [SEE DEMO](http://interpretapp.heroku.com)
 
+Fork Details
+============
+
+Attempting to make it work with Mongoid instead of ActiveRecord
+
 
 Installation
-===========
+============
 
 Add the gem to your Gemfile:
 
